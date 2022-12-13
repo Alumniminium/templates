@@ -27,7 +27,7 @@ This repository contains the Classic OpenFaaS templates, but many more are avail
 | ruby | Ruby | 2.7 | Alpine Linux 3.11 | classic| [Ruby template](https://github.com/openfaas/templates/tree/master/template/ruby)
 | php7 | PHP | 7.4 | Alpine Linux | classic | [PHP 7 template](https://github.com/openfaas/templates/tree/master/template/php7)
 | php8 | PHP | 8.1 | Alpine Linux | classic | [PHP 8 template](https://github.com/openfaas/templates/tree/master/template/php8)
-| csharp | C# | N/A | Debian GNU/Linux 9 | of-watchdog | [C# template](https://github.com/openfaas/templates/tree/master/template/csharp)
+| csharp | C# | N/A | Debian GNU/Linux 9 | classic | [C# template](https://github.com/openfaas/templates/tree/master/template/csharp)
 | net70 | C# | N/A | Alpine Linux | of-watchdog | [.NET 7.0 template](https://github.com/openfaas/templates/tree/master/template/net70)
 
 For more information on the templates check out the [docs](https://docs.openfaas.com/cli/templates/).
