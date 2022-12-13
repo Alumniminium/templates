@@ -5,6 +5,7 @@ build
 .gradle
 .idea
 **/bin/**
+**/obj/**
 .settings
 /**/package-lock.json
 /**/node_modules
